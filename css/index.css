@@ -1,0 +1,14 @@
+.article-section {
+  margin: 1rem;
+  padding: .3em;
+  border-radius: 1em;
+  border-left: dashed white 1px;
+  border-right: dashed white 1px;
+}
+
+.article-title {
+  border-bottom: solid white 1px;
+}
+
+.article-paragraph{
+}
