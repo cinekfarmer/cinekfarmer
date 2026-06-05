@@ -1,0 +1,40 @@
+{
+  "header": {
+    "subtitle": "Witam Cię, Przyjacielu"
+  },
+
+  "home": {
+    "introduction": {
+      "title": "Witam w mojej domenie!",
+      "text": "Witam! To, co tu widzicie, to moja strona której koncept jest całkiem prosty: użyć jej do dzielenia się moim życiem z moją rodziną, przyjaciółmi oraz losowymi przybyszami z internetu. To wszystko i wszyscy jesteście tu mile widziani. Jest to również jedyne miejsce, gdzie można zobaczyć, co się aktualnie u mnie dzieje, ponieważ nie używam aktualnie mediów społecznościowych."
+    },
+
+    "aboutMe": {
+      "title": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+
+    "future": {
+      "title": "",
+      "text": ""
+    }
+  },
+
+  "projects": {
+    "title": "",
+
+    "website": {
+      "title": "",
+      "description": ""
+    }
+  },
+
+  "blog": {
+    "title": "",
+    "article1Title": "",
+    "article1Description": "",
+    "articleReadMore": ""
+  }
+}

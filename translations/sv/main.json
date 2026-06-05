@@ -1,0 +1,40 @@
+{
+  "header": {
+    "subtitle": "Hej Kompis"
+  },
+
+  "home": {
+    "introduction": {
+      "title": "Välkommen till min hemsida!",
+      "text": "Hej, hej! Här ser du min webbplats, vars koncept är väldigt enkelt: jag planerar att använda den här platsen för att dela mitt liv med min familj, vänner och främlingar på nätet. Det är allt, och ni är alla välkomna hit. Det är också det enda stället där du kan hitta uppdateringar om mitt liv och mina projekt, eftersom jag inte använder sociala medier just nu."
+    },
+
+    "aboutMe": {
+      "title": "",
+      "text1": "",
+      "text2": "",
+      "text3": ""
+    },
+
+    "future": {
+      "title": "",
+      "text": ""
+    }
+  },
+
+  "projects": {
+    "title": "",
+
+    "website": {
+      "title": "",
+      "description": ""
+    }
+  },
+
+  "blog": {
+    "title": "",
+    "article1Title": "",
+    "article1Description": "",
+    "articleReadMore": ""
+  }
+}

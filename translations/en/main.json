@@ -1,0 +1,40 @@
+{
+  "header": {
+    "subtitle": "Hello Friend"
+  },
+
+  "home": {
+    "introduction": {
+      "title": "Welcome to my domain!",
+      "text": "Hello there! Here you see my website, whose concept is really simple: I'm planning to use this space to share my life with my family, friends and strangers from the internet. That's it, and you are all welcome here. This is also the only place where you can find updates about my life and projects (like this one), because I don't use social media at the moment."
+    },
+
+    "aboutMe": {
+      "title": "Who am I?",
+      "text1": "My name is Marcin and I'm from Poland. I enjoy programming, or more specifically, solving problems. That's the main reason this website exists, but it's also nice to have a place where I can express myself and share things with people I care about.",
+      "text2": "Besides programming, I occasionally experiment with electronics. So far, my biggest achievement has been building my own NAS (Network Attached Storage) server. I'm also a proud Linux user. If my career hadn't pushed me in that direction, I probably would never have tried it. After a lot of trial and error, I've come to appreciate the speed, control, and flexibility Linux provides. I genuinely believe even non-technical people can enjoy Linux when they have someone willing to guide them through the learning process.",
+      "text3": "My interests extend far beyond technology. I enjoy reading about philosophy, history, politics, economics, psychology, and many other subjects. I'm certainly not a Renaissance man, but I'm endlessly curious about the world around me. In short: I'm a bit of a nerd, and I'm perfectly fine with that."
+    },
+
+    "future": {
+      "title": "What now?",
+      "text": "If you're interested in following my progress, I plan to update this website roughly once a month, usually around the 11th. My goal is to keep adding projects, improving the site, and occasionally writing blog posts. Since this is still an early-stage project, I can't promise where it will go, but if I ever decide to abandon it, I'll make that clear here."
+    }
+  },
+
+  "projects": {
+    "title": "Projects",
+
+    "website": {
+      "title": "Personal Website",
+      "description": "My personal website built with plain HTML, CSS, and JavaScript. You're using it right now."
+    }
+  },
+
+  "blog": {
+    "title": "Welcome to my blog...",
+    "article1Title": "My first entry...",
+    "article1Description": "...which doesn't exist yet.",
+    "articleReadMore": "Read more"
+  }
+}
